@@ -11,3 +11,7 @@
 2) Agentic AI papers in materials reasoning - Paper {1, 2}.pdf
 
 3) Review article - https://iopscience.iop.org/article/10.1088/2515-7639/ae512f
+
+4) https://cme295.stanford.edu/
+
+5) https://cs336.stanford.edu/
