@@ -17,3 +17,11 @@
 5) https://cs336.stanford.edu/
 
 6) https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
+
+7)  https://platform.openai.com/docs/guides/prompt-engineering
+
+8)  https://arxiv.org/abs/2201.11903
+
+9)  https://arxiv.org/abs/2005.14165
+
+10) https://arxiv.org/abs/2203.11171
