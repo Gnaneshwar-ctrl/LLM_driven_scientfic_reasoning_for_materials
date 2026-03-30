@@ -15,3 +15,5 @@
 4) https://cme295.stanford.edu/
 
 5) https://cs336.stanford.edu/
+
+6) https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
