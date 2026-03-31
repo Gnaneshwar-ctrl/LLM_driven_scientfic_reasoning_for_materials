@@ -25,3 +25,13 @@
 9)  https://arxiv.org/abs/2005.14165
 
 10) https://arxiv.org/abs/2203.11171
+
+11) https://arxiv.org/abs/1908.10084
+
+12) https://doi.org/10.1038/s41586-019-1335-8
+
+13) https://faiss.ai/
+
+14) https://jalammar.github.io/illustrated-word2vec/
+
+15) https://arxiv.org/abs/2310.06816
